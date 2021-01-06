@@ -37,4 +37,4 @@ Training and Inference script for MaskRCNN multi-class model.
 # Run inference
 `python custom.py splash --image IMG_1200.jpeg --weights mask_rcnn_custom_0006.h5`
 
-![image]("/home/cis/Inference1/Figure_1.png")
+![image](Figure_1.png)
