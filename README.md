@@ -6,8 +6,11 @@ Training and Inference script for MaskRCNN multi-class model.
 - Virtualenv
 # Installation
 `git clone `
+
 `virtual-env --python=3.6 env`
+
 `source env/bin/activate`
+
 `pip install -r requirements.txt`
 
 # Additional installation
